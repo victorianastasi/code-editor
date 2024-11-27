@@ -6,7 +6,7 @@ Esta pagina es una herramienta para probar los componentes de la libreria de Obe
 ## Descargar repositorio
 
 ```bash
-git clone https://github.com/gcba/editor-de-codigo.git
+git clone https://github.com/victorianastasi/code-editor
 ```
 
 ```bash
