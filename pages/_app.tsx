@@ -7,7 +7,7 @@ function MyApp({Component, pageProps}) {
   return (
     <>
       <Head>
-        <title>Editor Obelisco</title>
+        <title>Editor de código</title>
       </Head>
       <Component {...pageProps} />
     </>
