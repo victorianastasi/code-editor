@@ -12,19 +12,19 @@ export const Footer = () => {
               <div className="col-12 col-md-5 col-xl-4 footer-content-img">
                 <img
                   className="d-lg-none"
-                  src="../../assets/footer/logo-footer-mobile.svg"
+                  src="./../../assets/footer/logo-footer-mobile.svg"
                   alt="Logo de Ciudad de Buenos Aires"
                   height="48"
                 />
                 <img
                   className="d-none d-lg-inline"
-                  src="../../assets/footer/logo-footer.svg"
+                  src="./../../assets/footer/logo-footer.svg"
                   alt="Logo de Ciudad de Buenos Aires"
                   height="40"
                 />
                 <img
                   className="img-vamos-ba"
-                  src="../../assets/footer/logo-footer-ba.svg"
+                  src="./../../assets/footer/logo-footer-ba.svg"
                   alt="Logo de Vamos Buenos Aires"
                 />
               </div>
