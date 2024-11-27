@@ -7,8 +7,8 @@ export const Header = () => {
       </a>
       <div className="container header-container">
         <a href="https://gcba.github.io/" className="navbar-brand">
-          <img className="d-none d-xl-block" src="/assets/header/logo_obelisco.svg" alt="Obelisco" />
-          <img className="d-xl-none" src="/assets/header/logo_obelisco_mobile.svg" alt="Obelisco" />
+          <img className="d-none d-xl-block" src="./assets/header/logo_obelisco.svg" alt="Obelisco" />
+          <img className="d-xl-none" src="./assets/header/logo_obelisco_mobile.svg" alt="Obelisco" />
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHomeObelisco" aria-controls="navbarHomeObelisco" aria-expanded="false" aria-label="Menú"></button>
         <div className="collapse navbar-collapse" id="navbarHomeObelisco">
